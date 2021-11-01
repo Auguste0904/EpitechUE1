@@ -1046,3 +1046,23 @@ Script call stack:
 [2021.11.01-22.22.31:342][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.11.01-22.22.31:350][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2021.11.01-22.22.31:393][670]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.11.01-22.27.11:267][688]LogPackageName: SearchForPackageOnDisk took   0.190s, but failed to resolve S_ClothTarps_03.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.11.01-22.27.11:267][688]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.11.01-22.27.11:268][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.11.01-22.27.11:268][688]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.11.01-22.27.11:476][688]LogPackageName: SearchForPackageOnDisk took   0.223s, but failed to resolve S_ClothTarps_03.
+[2021.11.01-22.27.11:476][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2021.11.01-22.27.11:476][688]LogPackageName: SearchForPackageOnDisk took   0.226s, but failed to resolve S_ClothTarps_03.
+[2021.11.01-22.27.11:476][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2021.11.01-22.27.11:476][688]LogPackageName: SearchForPackageOnDisk took   0.227s, but failed to resolve S_ClothTarps_03.
+[2021.11.01-22.27.11:476][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2021.11.01-22.27.11:476][688]LogPackageName: SearchForPackageOnDisk took   0.208s, but failed to resolve S_ClothTarps_03.
+[2021.11.01-22.27.11:476][688]LogPackageName: Warning: Asset path "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
